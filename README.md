@@ -12,4 +12,4 @@ This comparison dispatches a big amount of actions to both of redux and repatch 
 
 ## Results
 
-Redux needs 9X more time to dispatching these actions then Repatch.
+Redux needs 9X more time to dispatching these actions than Repatch.
