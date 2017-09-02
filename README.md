@@ -8,7 +8,7 @@ npm install
 node .
 ```
 
-This comparison dispatches a big amount of actions to both of redux and repatch stores. I used a very simple increment action for both of measurement. I got many questions, why did I use these unrealistic actions. The reason, that is I would like to prevent the additional overhead via reducing, and ensure that the measurement can be independent from other effects, like object assigning.
+This comparison dispatches a big amount of actions to both of redux and repatch stores. I used a very simple increment action for both of measurement. I got many questions, why did I use these unrealistic actions. The reason is, that I would like to prevent the additional overhead via reducing, and ensure that the measurement can be independent from other effects, like object assigning.
 
 ## Results
 
