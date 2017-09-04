@@ -3,7 +3,7 @@
 const { createStore } = require('redux');
 const { Store } = require('repatch');
 
-const MAX = 10e7;
+const MAX = 10e6;
 
 const INCREMENT = 'INCREMENT';
 
